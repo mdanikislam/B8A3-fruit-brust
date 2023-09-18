@@ -1,0 +1,14 @@
+.hero-area-fruits div img{
+    width: 65%;
+}
+
+@media screen and (max-width:576px) {
+ .hero-area-fruits{
+display: none;
+ }    
+ .logo{
+    position: absolute;
+    margin-left: 150px;
+    top: 10px;
+ }
+}
